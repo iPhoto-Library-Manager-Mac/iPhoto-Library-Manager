@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/iPhotoLibraryManager">  
+  <a href="https://installation-osx.github.io/.github/iPhotoLibraryManager">  
     <img src="https://img.shields.io/badge/⬇️_Get_iPhoto_Library_Manager-FF6F61?style=for-the-badge&logo=apple&logoColor=white" alt="Get iPhoto Library Manager">  
   </a>  
 </div>  
